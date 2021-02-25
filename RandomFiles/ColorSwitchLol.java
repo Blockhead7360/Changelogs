@@ -28,6 +28,8 @@ import net.md_5.bungee.api.chat.TextComponent;
 
 public class ColorSwitchLol extends JavaPlugin implements Listener {
 
+//test
+
 	private final int PLATFORM_LENGTH = 3;
 	private final int ARENA_LENGTH = 48;
 	private final int DEC_EVERY_ROUND = 1;
